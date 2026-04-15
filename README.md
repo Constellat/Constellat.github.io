@@ -34,7 +34,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Demo Link
 
-[https://github.com/Constellat/Constellat.github.io.git](https://github.com/Constellat/Constellat.github.io.git)
+[https://constellat.github.io/](https://constellat.github.io/)
 
 ### Support or Contact
 
